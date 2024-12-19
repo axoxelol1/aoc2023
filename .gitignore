@@ -1,4 +1,4 @@
 */target
-**/input.txt
-**/example.txt
 **/*.txt
+**/*.png
+**/.DS_Store
